@@ -4,6 +4,7 @@ I’m a passionate and growing DevOps enthusiast with a strong interest in autom
 
 🚀 What I'm Currently Doing
 💼 Working at One Digital Media as a NOC (Network Operations Center) Technician
+
 🖥️ Monitoring systems, troubleshooting issues, and ensuring uptime for digital media infrastructure
 🔧 Handling incidents, escalations, and supporting field technicians
 
